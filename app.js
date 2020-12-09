@@ -1,5 +1,5 @@
 // Connect dataset 
-let dataset = "/data/samples.json";
+let dataset = "data/samples.json";
 
 //Read samples
 d3.json(dataset).then(function(data){
